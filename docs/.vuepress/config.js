@@ -1,10 +1,9 @@
 module.exports = {
-    title: 'test docs',
+    title: 'Diary',
     themeConfig: {
         sidebar: [
             '/',
-            '/test-1',
-            '/test-2',
+            '/2020-04-17',
         ],
     },
 };
